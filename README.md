@@ -1,2 +1,2 @@
 # indexGenerator
-Index Generator in Markdown. (for blog posting)
+A Simple Index Generator in Markdown. (for blog posting)
